@@ -16,8 +16,6 @@ ar ru library/Ascii2D.a library/Pixel/Pixel.o^
 
 ranlib library/Ascii2D.a
 
-:blank
-
 g++ -o triangle_animation triangle_animation.cpp library/Ascii2D.a
 g++ -o polygon_animation polygon_animation.cpp library/Ascii2D.a
 g++ -o plot_function plot_function.cpp library/Ascii2D.a
