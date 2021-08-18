@@ -1,3 +1,5 @@
+![triangle](https://user-images.githubusercontent.com/33664454/129933256-7a6e68a1-290d-4d24-bd3c-38a5b9458ce3.gif)
+
 # Terminal-2D-Graphics-Engine
 Simple graphics engine to run in terminal or cmd (WiP)
 
